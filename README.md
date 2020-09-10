@@ -4,7 +4,7 @@ This theme is based on the theme provided by Master Prodigy user on YouTube.
 Check out his amazing LaTeX tutorials.
 
 ### !!! Before you start !!! 
-Backup your TeXstudio settings [Go to menu bar -> Click in "Options"  -> Click on "Save Profile..."]
+Backup your TeXstudio settings [Go to menu bar -> Click in 'Options'  -> Click on 'Save Profile...']
 
 ### How to Install via copying text to file (recommended)
 
@@ -23,13 +23,17 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 
 1. [Download the latest release]()
 2. Open TeXstudio
-3. Go to menu bar -> Click in "Options"  -> Click on "Load Profile..." and select the file "Dark-TeXstudio.txsprofile"
+3. [Go to menu bar -> Click in 'Options'  -> Click on 'Load Profile...'] and select the file "Dark-TeXstudio.txsprofile"
 4. Restart TeXstudio.
 5. Enjoy
 
 ### Preview
 
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Figure.png)
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Maths.png)
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Table.png)
+#### Inserting a text, keywords are orange
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Text.png)
+#### Inserting a maths equations, using green and blue colors
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Maths.png)
+#### Inserting a table, very colorful
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Table.png)
+#### Inserting a figure, references are in magenta
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Figure.png)
