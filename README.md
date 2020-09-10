@@ -1,10 +1,11 @@
 # Dark Theme for TeXstudio
 
-This theme is based on the theme provided by Master Prodigy user on YouTube.
+This theme is based on the theme provided by Master Prodigy user on YouTube.<br/>
 Check out his amazing LaTeX tutorials.
 
 ### !!! Before you start !!! 
-Backup your TeXstudio settings [Go to menu bar -> Click in 'Options'  -> Click on 'Save Profile...']
+Backup your TeXstudio settings  
+Go to menu bar -> Click in 'Options'  -> Click on 'Save Profile...'
 
 ### How to Install via copying text to file (recommended)
 
@@ -13,7 +14,7 @@ Backup your TeXstudio settings [Go to menu bar -> Click in 'Options'  -> Click o
 3. Find the "[formats]" string
 4. Copy the content from "Dark-TeXstudio.txt" under the "[formats]" string
 5. Save the file
-3. Go to menu bar -> Click in "Options"  -> Click on "Load Profile..." and select the file your .txsprofile file
+3. Go to menu bar -> Click in 'Options'  -> Click on 'Load Profile...' and select the file your .txsprofile file
 6. Restart TeXstudio.
 7. Enjoy
 
@@ -21,9 +22,9 @@ Backup your TeXstudio settings [Go to menu bar -> Click in 'Options'  -> Click o
 
 This method could overwrite your shortcuts, recommended if you have not tweaked any configuration
 
-1. [Download the latest release]()
+1. [Download the latest release](https://github.com/hasecilu/Dark-TeXstudio/archive/master.zip)
 2. Open TeXstudio
-3. [Go to menu bar -> Click in 'Options'  -> Click on 'Load Profile...'] and select the file "Dark-TeXstudio.txsprofile"
+3. Go to menu bar -> Click in 'Options'  -> Click on 'Load Profile...' and select the file "Dark-TeXstudio.txsprofile"
 4. Restart TeXstudio.
 5. Enjoy
 
