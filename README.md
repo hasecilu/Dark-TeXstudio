@@ -1,7 +1,7 @@
 # Dark Theme for TeXstudio
 
 This theme is based on the theme provided by Master Prodigy user on YouTube.<br/>
-Check out his amazing LaTeX tutorials.
+[Check out his amazing LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)
 
 ### !!! Before you start !!! 
 Backup your TeXstudio settings  
