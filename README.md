@@ -36,6 +36,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Maths.png)
 #### Inserting a table + math mode, very colorful
 File available for download. 
+
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Table.png)
 #### Inserting a figure, references are in magenta
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Figure.png)
