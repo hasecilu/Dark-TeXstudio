@@ -1,4 +1,4 @@
-# Dark Theme for TeXstudio
+# Dark Theme for [TeXstudio](https://texstudio.org/)
 
 This theme is based on the theme provided by Master Prodigy user on YouTube. I tweaked some colors.<br/>
 [Check out his amazing LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)
