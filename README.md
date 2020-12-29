@@ -34,7 +34,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Text.png)
 #### Inserting a maths equations, using green and blue colors
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Maths.png)
-#### Inserting a table, very colorful
+#### Inserting a table + math mode, very colorful
 File available.  
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Table.png)
 #### Inserting a figure, references are in magenta
