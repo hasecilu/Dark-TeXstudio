@@ -72,10 +72,19 @@ File available for download. <br/>
 ## Comparison: Light IDE theme vs Dark IDE theme
 
 #### Light theme
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Light.png)
+![Light theme](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Light.png)
 #### Dark theme
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Dark.png)
+![Dark theme](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Dark.png)
 
+To join the dark side you can add these lines of code to your LaTeX document
+```latex
+\pagecolor{black}
+\color{white}
+```
+You will need the [xcolor package](https://www.ctan.org/pkg/xcolor).<br/>
+Type `texdoc xcolor` in your terminal for help.
 
-#### Full Dark theme
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark.png)
+#### Dark theme + black page color
+![Dark theme + black page color](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark.png)
+
+### Welcome to the dark side!
