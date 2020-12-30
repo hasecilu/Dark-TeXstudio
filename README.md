@@ -5,11 +5,11 @@ This theme is based on the theme provided by Master Prodigy user on YouTube. [Ch
 The math mode is intact and I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...<br/><br/>
 For making easier to look at the errors & find/replace highlightnings I changed:<br/>
 Line highlighting<br/>
-   line:error -> from HSV(10,64,255) #FFC9BF to HSV(10,150,255) #FF8269<br/>
+   line:error   -> from HSV(10,64,255) #FFC9BF to HSV(10,150,255) #FF8269<br/>
    line:warning -> from HSV(56,64,255) #FFFABF to HSV(56,150,255) #FFF569<br/>
-   line:badbox -> from HSV(218,64,255) #BFD6FF to HSV(218,150,255) #69A0FF<br/>
+   line:badbox  -> from HSV(218,64,255) #BFD6FF to HSV(218,150,255) #69A0FF<br/>
 Search<br/>
-   replacement -> from HSV(0,33,255) #FFDEDE to HSV(0,150,255) #FF6969<br/>
+   replacement  -> from HSV(0,33,255) #FFDEDE to HSV(0,150,255) #FF6969<br/>
 
 
 ## Before you start !!! 
