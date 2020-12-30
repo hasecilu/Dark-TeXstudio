@@ -1,22 +1,33 @@
 # Dark Theme for [TeXstudio](https://texstudio.org/)
 
-This theme is based on the theme provided by Master Prodigy user on YouTube. I tweaked some colors.<br/>
-[Check out his amazing LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)
+### Introduction
+This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/>
+I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...
+For making easier to look at the errors & find/replace highlightnings I changed:
+Line highlighting
+  line:error -> from HSV(10,64,255) to HSV(10,150,255)
+  line:warning -> from HSV(56,64,255) to HSV(56,150,255)
+  line:badbox -> from HSV(218,64,255) to HSV(218,150,255)
+Search
+  replacement -> from HSV(0,33,255) to HSV(0,150,255)
 
-### !!! Before you start !!! 
+
+### Before you start !!! 
 Backup your TeXstudio settings.  
 Go to menu bar -> Click in 'Options'  -> Click on 'Save Profile...'
 
 ### How to Install via copying text to file (recommended)
 
-1. Export your actual profile (same procedure as backup).
-2. Open your .txsprofile file on any text editor.
-3. Find the "[formats]" string.
-4. Copy the content from "Dark-TeXstudio.txt" under the "[formats]" string, if it there is any text under overwrite it.
-5. Save the file.
-3. Go to menu bar -> Click in 'Options'  -> Click on 'Load Profile...' and select the file your .txsprofile file.
-6. Restart TeXstudio.
-7. Enjoy!
+1. [Download the latest release.](https://github.com/hasecilu/Dark-TeXstudio/archive/master.zip)
+2. Open TeXstudio.
+3. Export your actual profile (same procedure as backup).
+4. Open your .txsprofile file on any text editor.
+5. Find the "[formats]" string.
+6. Copy the content from "Dark-TeXstudio.txt" under the "[formats]" string, if it there is any text under overwrite it.
+7. Save the file.
+8. Go to menu bar -> Click in 'Options'  -> Click on 'Load Profile...' and select the file your .txsprofile file.
+9. Restart TeXstudio.
+10. Enjoy!
 
 ### How to Install via .txsprofile file
 
