@@ -2,14 +2,14 @@
 
 ## Introduction
 This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
-I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...<br/><br/>
+The math mode is intact and I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...<br/><br/>
 For making easier to look at the errors & find/replace highlightnings I changed:<br/>
 Line highlighting<br/>
-    line:error -> from HSV(10,64,255) to HSV(10,150,255)<br/>
-    line:warning -> from HSV(56,64,255) to HSV(56,150,255)<br/>
-    line:badbox -> from HSV(218,64,255) to HSV(218,150,255)<br/>
+   line:error -> from HSV(10,64,255) #FFC9BF to HSV(10,150,255) #FF8269<br/><br/>
+   line:warning -> from HSV(56,64,255) #FFFABF to HSV(56,150,255) #FFF569<br/><br/>
+   line:badbox -> from HSV(218,64,255) #BFD6FF to HSV(218,150,255) #69A0FF<br/><br/>
 Search<br/>
-    replacement -> from HSV(0,33,255) to HSV(0,150,255)<br/>
+   replacement -> from HSV(0,33,255) #FFDEDE to HSV(0,150,255) #FF6969<br/>
 
 
 ## Before you start !!! 
@@ -22,13 +22,13 @@ Firstly, this repo was intended for helping to replace the text editor colors bu
 Basically you can only change the text editor colors or change the text editor colors + the IDE theme<br/>
 To change to the dark IDE theme:
 1. Go to menu bar -> Click in 'Options'  -> Click on 'Configure TeXstudio...'
-2. In the Configure TeXstudio window clic on General.
-3. In the Appereance group choose the style of your preference
-4. In Color Scheme select Modern - dark
+2. In the Configure TeXstudio window clic on 'General' tab.
+3. In the 'Appereance' group choose the style of your preference
+4. In 'Color Scheme' select 'Modern - dark'
 5. Clic OK, most times no need to restart TeXstudio
-6. If TeXstudio does not look full dark repeat step 1
-7. In the left-bottom corner mark the Show Advanced Options checkbox
-8. In the General tab, in the Appereance group mark the Ignore Most System Colors checkbox
+6. If TeXstudio does not look full dark repeat step 1 and continue with the next steps, if does restart TeXstudio
+7. In the left-bottom corner mark the 'Show Advanced Options' checkbox
+8. In the 'General' tab, in the 'Appereance' group mark the 'Ignore Most System Colors' checkbox
 9. Restart TeXstudio
 
 Now we can proceed to change the text editor colors.
@@ -76,6 +76,7 @@ File available for download. <br/>
 #### Dark theme
 ![Dark theme](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Dark.png)
 
+#### Dark theme + black page color
 To join the dark side you can add these lines of code to your LaTeX document
 ```latex
 \pagecolor{black}
@@ -84,7 +85,7 @@ To join the dark side you can add these lines of code to your LaTeX document
 You will need the [xcolor package](https://www.ctan.org/pkg/xcolor).<br/>
 Type `texdoc xcolor` in your terminal for help.
 
-#### Dark theme + black page color
+
 ![Dark theme + black page color](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark.png)
 
 ### Welcome to the dark side!
