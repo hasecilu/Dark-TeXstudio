@@ -2,14 +2,14 @@
 
 ### Introduction
 This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/>
-I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...
-For making easier to look at the errors & find/replace highlightnings I changed:
-Line highlighting
-  line:error -> from HSV(10,64,255) to HSV(10,150,255)
-  line:warning -> from HSV(56,64,255) to HSV(56,150,255)
-  line:badbox -> from HSV(218,64,255) to HSV(218,150,255)
-Search
-  replacement -> from HSV(0,33,255) to HSV(0,150,255)
+I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...<br/>
+For making easier to look at the errors & find/replace highlightnings I changed:<br/>
+Line highlighting<br/>
+  line:error -> from HSV(10,64,255) to HSV(10,150,255)<br/>
+  line:warning -> from HSV(56,64,255) to HSV(56,150,255)<br/>
+  line:badbox -> from HSV(218,64,255) to HSV(218,150,255)<br/>
+Search<br/>
+  replacement -> from HSV(0,33,255) to HSV(0,150,255)<br/>
 
 
 ### Before you start !!! 
