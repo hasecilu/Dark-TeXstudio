@@ -1,6 +1,6 @@
 # Dark Theme for [TeXstudio](https://texstudio.org/)
 
-### Introduction
+## Introduction
 This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
 I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...<br/><br/>
 For making easier to look at the errors & find/replace highlightnings I changed:<br/>
@@ -12,12 +12,12 @@ Search<br/>
     replacement -> from HSV(0,33,255) to HSV(0,150,255)<br/>
 
 
-### Before you start !!! 
+## Before you start !!! 
 Backup your TeXstudio settings.  
 Go to menu bar -> Click in 'Options'  -> Click on 'Save Profile...'
 
 
-### Dark IDE !!! 
+## Dark IDE !!! 
 Firstly, this repo was intended for helping to replace the text editor colors but as soon as I realize that TeXstudio have various dark IDE themes I decided to add it.<br/>
 Basically you can only change the text editor colors or change the text editor colors + the IDE theme<br/>
 To change to the dark IDE theme:
@@ -34,7 +34,7 @@ To change to the dark IDE theme:
 Now we can proceed to change the text editor colors.
 
 
-### How to Install via copying text to file (recommended)
+## How to Install via copying text to file (recommended)
 
 1. [Download the latest release.](https://github.com/hasecilu/Dark-TeXstudio/archive/master.zip)
 2. Open TeXstudio.
@@ -47,7 +47,7 @@ Now we can proceed to change the text editor colors.
 9. Restart TeXstudio.
 10. Enjoy!
 
-### How to Install via .txsprofile file
+## How to Install via .txsprofile file
 
 This method could overwrite your shortcuts, recommended if you have not tweaked any configuration.
 
@@ -57,7 +57,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 4. Restart TeXstudio.
 5. Enjoy!
 
-### Preview
+## Preview
 
 #### Inserting a text, keywords are orange
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Text.png)
@@ -68,3 +68,14 @@ File available for download. <br/>
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Table.png)
 #### Inserting a figure, references are in magenta
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Figure.png)
+
+## Comparison: Light IDE theme vs Dark IDE theme
+
+#### Light theme
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Light.png)
+#### Dark theme
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Dark.png)
+
+
+#### Full Dark theme
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark.png)
