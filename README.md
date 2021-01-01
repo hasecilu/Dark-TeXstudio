@@ -82,6 +82,13 @@ To join the dark side you can add these lines of code to your LaTeX document
 \pagecolor{black}
 \color{white}
 ```
+Recommendation: For better readabilty try using colors in the scale of gray, the contrast should not be very high
+```latex
+\pagecolor[HTML]{111111}
+\color[HTML]{EEEEEE}
+```
+
+
 You will need the [xcolor package](https://www.ctan.org/pkg/xcolor).<br/>
 Type `texdoc xcolor` in your terminal for help.
 
