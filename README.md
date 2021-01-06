@@ -79,11 +79,13 @@ File available for download. <br/>
 #### Dark theme + black page color
 To join the dark side you can add these lines of code to your LaTeX document
 ```latex
+\usepackage{xcolor}
 \pagecolor{black}
 \color{white}
 ```
 Recommendation: For better readabilty try using colors in the scale of gray, the contrast should not be very high
 ```latex
+\usepackage{xcolor}
 \pagecolor[HTML]{111111}
 \color[HTML]{EEEEEE}
 ```
