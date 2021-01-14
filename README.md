@@ -76,25 +76,36 @@ File available for download. <br/>
 #### Dark theme
 ![Dark theme](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Dark.png)
 
-#### Dark theme + black page color
-To join the dark side you can add these lines of code to your LaTeX document
+### Dark theme + black page color
+There are 2 methods: creating the document itself with a dark page color and light font color or making the internal pdf viewer invert colors.
+#### Change colors from source
+We can change colors in our document using the the [xcolor package](https://www.ctan.org/pkg/xcolor).<br/>
+Type `texdoc xcolor` in your terminal for help.<br/>
+This method does not inverts colors of pictures and some elements like boxes.
+Recommendation: For better readability try using colors in the scale of gray, the contrast should not be very high as in the black background & white foreground combination.
 ```latex
+% To join the dark side you can add these lines of code to your LaTeX document before \begin{document} (preamble)
 \usepackage{xcolor}
-\pagecolor{black}
-\color{white}
+\pagecolor[HTML]{111111} % dark color
+\color[HTML]{EEEEEE} % light color
 ```
-Recommendation: For better readabilty try using colors in the scale of gray, the contrast should not be very high
-```latex
-\usepackage{xcolor}
-\pagecolor[HTML]{111111}
-\color[HTML]{EEEEEE}
-```
+At the end you will need to comment those lines to get a typical black & white document.
 
+![Dark theme + dark page color](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark2.png)
 
-You will need the [xcolor package](https://www.ctan.org/pkg/xcolor).<br/>
-Type `texdoc xcolor` in your terminal for help.
+#### Invert colors with built-in pdf viewer
+<!--- Recommendation by ZeliTheZealot --->
+If you just want the internal pdf viewer does the job follow the next steps, thanks to ZeliTheZealot for the advice.<br/>
+This method inverts colors of everything, including pictures and some elements like boxes.
+1. Go to menu bar -> Click in 'Options'  -> Click on 'Configure TeXstudio...'
+2. In the Configure TeXstudio window clic on 'Internal PDF Viewer' tab
+3. In the 'Paper Color' box choose a light gray color - #D1CFCF (light gray)
+4. Switch to Windowed Viewer (right next to internal viewer 'Close' button)
+5. Compile and view the changes
+6. In the Windowed Viewer go to menu bar, do Configure -> Invert Colors
+7. Switch back to Embedded Viewer
+When you open the pdf with an external pdf viewer you will see the typical black & white document.
 
-
-![Dark theme + black page color](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark.png)
+![Dark theme + invert color](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark3.png)
 
 ### Welcome to the dark side!
