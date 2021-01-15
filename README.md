@@ -101,7 +101,7 @@ If you just want the internal pdf viewer does the job follow the next steps, tha
 This method inverts colors of everything, including pictures and some elements like boxes.
 1. Go to menu bar -> Click in 'Options'  -> Click on 'Configure TeXstudio...'
 2. In the Configure TeXstudio window clic on 'Internal PDF Viewer' tab
-3. In the 'Paper Color' box choose a light gray color - #D1CFCF (light gray)
+3. In the 'Paper Color' box choose a light gray color, #D1CFCF for example
 4. Switch to Windowed Viewer (right next to internal viewer 'Close' button)
 5. Compile and view the changes
 6. In the Windowed Viewer go to menu bar, do Configure -> Invert Colors
