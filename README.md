@@ -77,14 +77,16 @@ File available for download. <br/>
 ![Dark theme](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Dark.png)
 
 ### Dark theme + black page color
-There are 2 methods: creating the document itself with a dark page color and light font color or making the internal pdf viewer invert colors.
+There are 2 methods: 
+1. Creating the document itself with a dark page color and light font color
+2. Making the internal pdf viewer invert colors.
 #### Change colors from source
 We can change colors in our document using the the [xcolor package](https://www.ctan.org/pkg/xcolor).<br/>
 Type `texdoc xcolor` in your terminal for help.<br/>
-This method does not inverts colors of pictures and some elements like boxes.
+This method does not inverts colors of pictures and some elements like boxes.<br/>
 Recommendation: For better readability try using colors in the scale of gray, the contrast should not be very high as in the black background & white foreground combination.
 ```latex
-% To join the dark side you can add these lines of code to your LaTeX document before \begin{document} (preamble)
+% To join the dark side add these lines to the preamble (before \begin{document})
 \usepackage{xcolor}
 \pagecolor[HTML]{111111} % dark color
 \color[HTML]{EEEEEE} % light color
