@@ -98,7 +98,7 @@ At the end you will need to comment those lines to get a typical black & white d
 #### Invert colors with built-in pdf viewer
 <!--- Recommendation by ZeliTheZealot --->
 If you just want the internal pdf viewer does the job follow the next steps, thanks to ZeliTheZealot for the advice.<br/>
-This method inverts colors of everything, including pictures and some elements like boxes.
+This method inverts colors of everything, including pictures and elements like boxes.
 1. Go to menu bar -> Click in 'Options'  -> Click on 'Configure TeXstudio...'
 2. In the Configure TeXstudio window clic on 'Internal PDF Viewer' tab
 3. In the 'Paper Color' box choose a light gray color, #D1CFCF for example
