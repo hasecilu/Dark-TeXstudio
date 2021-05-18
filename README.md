@@ -110,4 +110,4 @@ When you open the pdf with an external pdf viewer you will see the typical black
 
 ![Dark theme + invert color](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark3.png)
 
-### Welcome to the dark side!
+<div align="center"> ### Welcome to the dark side! </div>
