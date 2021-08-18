@@ -1,7 +1,7 @@
 # Dark Theme for [TeXstudio](https://texstudio.org/)
 
 ## Introduction
-This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
+This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing beginner LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
 The math mode is intact and I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...<br/><br/>
 For making easier to look at the errors & find/replace highlightnings I changed:<br/>
 Line highlighting<br/>
@@ -14,21 +14,21 @@ Search<br/>
 
 ## Before you start !!! 
 Backup your TeXstudio settings.  
-Go to menu bar -> Click in 'Options'  -> Click on 'Save Profile...'
+Go to menu bar -> Click in `Options`  -> Click on `Save Profile...`
 
 
 ## Dark IDE !!! 
 Firstly, this repo was intended for helping to replace the text editor colors but as soon as I realize that TeXstudio have various dark IDE themes I decided to add it.<br/>
 Basically you can only change the text editor colors or change the text editor colors + the IDE theme<br/>
 To change to the dark IDE theme:
-1. Go to menu bar -> Click in 'Options'  -> Click on 'Configure TeXstudio...'
-2. In the Configure TeXstudio window clic on 'General' tab.
-3. In the 'Appereance' group choose the style of your preference
-4. In 'Color Scheme' select 'Modern - dark'
+1. Go to menu bar -> Click in `Options`  -> Click on `Configure TeXstudio...`
+2. In the Configure TeXstudio window clic on `General` tab.
+3. In the `Appereance` group choose the style of your preference
+4. In `Color Scheme` select `Modern - dark`
 5. Clic OK, most times no need to restart TeXstudio
 6. If TeXstudio does not look full dark repeat step 1 and continue with the next steps, if does restart TeXstudio
-7. In the left-bottom corner mark the 'Show Advanced Options' checkbox
-8. In the 'General' tab, in the 'Appereance' group mark the 'Ignore Most System Colors' checkbox
+7. In the left-bottom corner mark the `Show Advanced Options` checkbox
+8. In the `General` tab, in the `Appereance` group mark the `Ignore Most System Colors` checkbox
 9. Restart TeXstudio
 
 Now we can proceed to change the text editor colors.
@@ -43,7 +43,7 @@ Now we can proceed to change the text editor colors.
 5. Find the "[formats]" string or "[formatsdark]" string if applies.
 6. Copy the content from "Dark-TeXstudio.txt" under the "[formats]"/"[formatsdark]" string, if it there is any text under overwrite it.
 7. Save the file.
-8. Go to menu bar -> Click in 'Options'  -> Click on 'Load Profile...' and select the file your *.txsprofile file.
+8. Go to menu bar -> Click in `Options`  -> Click on `Load Profile...` and select the file your *.txsprofile file.
 9. Restart TeXstudio.
 10. Enjoy!
 
@@ -53,7 +53,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 
 1. [Download the latest release.](https://github.com/hasecilu/Dark-TeXstudio/archive/master.zip)
 2. Open TeXstudio.
-3. Go to menu bar -> Click in 'Options'  -> Click on 'Load Profile...' and select the file "Dark-TeXstudio-text-editor.txsprofile" for change only the text editor colors or select the file "Full-Dark-TeXstudio.txsprofile" for change both IDE and text editor.
+3. Go to menu bar -> Click in `Options`  -> Click on `Load Profile...` and select the file "Dark-TeXstudio-text-editor.txsprofile" for change only the text editor colors or select the file "Full-Dark-TeXstudio.txsprofile" for change both IDE and text editor.
 4. Restart TeXstudio.
 5. Enjoy!
 
@@ -64,7 +64,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 #### Inserting a maths equations, using green and blue colors
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Maths.png)
 #### Inserting a table + math mode, very colorful
-File available for download. <br/>
+File available for [download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Table.png)
 #### Inserting a figure, references are in magenta
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Figure.png)
@@ -99,10 +99,10 @@ At the end you will need to comment those lines to get a typical black & white d
 <!--- Recommendation by ZeliTheZealot --->
 If you just want the internal pdf viewer does the job follow the next steps, thanks to ZeliTheZealot for the advice.<br/>
 This method inverts colors of everything, including pictures and elements like boxes.
-1. Go to menu bar -> Click in 'Options'  -> Click on 'Configure TeXstudio...'
-2. In the Configure TeXstudio window clic on 'Internal PDF Viewer' tab
-3. In the 'Paper Color' box choose a light gray color, #D1CFCF for example
-4. Switch to Windowed Viewer (right next to internal viewer 'Close' button)
+1. Go to menu bar -> Click in `Options`  -> Click on `Configure TeXstudio...`
+2. In the Configure TeXstudio window clic on `Internal PDF Viewer` tab
+3. In the `Paper Color` box choose a light gray color, #D1CFCF for example
+4. Switch to Windowed Viewer (right next to internal viewer `Close` button)
 5. Compile and view the changes
 6. In the Windowed Viewer go to menu bar, do Configure -> Invert Colors
 7. Switch back to Embedded Viewer
