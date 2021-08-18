@@ -114,4 +114,4 @@ When you open the pdf with an external pdf viewer you will see the typical black
 
 #### Interested in more dark profiles for TeXstudio?
 
-[TexStudio Profiles repo](https://gitlab.com/adin/texstudio-profiles) from adin in gitlab have a few more themes. Check it out!
+[TexStudio Profiles](https://gitlab.com/adin/texstudio-profiles) repo from adin in gitlab have a few more themes. Check it out!
