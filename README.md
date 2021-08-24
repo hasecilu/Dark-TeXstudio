@@ -2,7 +2,7 @@
 
 ## Introduction
 This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing beginner LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
-The math mode is intact and I tweaked some colors, mainly: put text to white, comments to green, keywords to orange, extra-keywords to blue, environment to yellow and ...<br/><br/>
+The math mode is intact and I tweaked some colors, mainly: put text to `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+), comments to  `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+), keywords to `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+), extra-keywords to `#446780` ![#446780](https://via.placeholder.com/15/446780/000000?text=+), environment to `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+) and ...<br/><br/>
 For making easier to look at the errors & find/replace highlightnings I changed:<br/>
 Line highlighting<br/>
 - line:error   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> from `#FFC9BF` ![#FFC9BF](https://via.placeholder.com/15/FFC9BF/000000?text=+) to `#FF8269` ![#FF8269](https://via.placeholder.com/15/FF8269/000000?text=+)
