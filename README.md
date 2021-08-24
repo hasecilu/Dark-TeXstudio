@@ -85,7 +85,9 @@ There are 2 methods:
 We can change colors in our document using the the [xcolor package](https://www.ctan.org/pkg/xcolor).<br/>
 Type `texdoc xcolor` in your terminal for help.<br/>
 This method does not inverts colors of pictures and some elements like boxes.<br/>
-Recommendation: For better readability try using colors in the scale of gray, the contrast should not be very high as in the black background & white foreground combination.
+Recommendation: For better readability try using colors in the scale of gray, the contrast should not be very high as in the black background & white foreground combination.<br/>
+`#111111` ![#111111](https://via.placeholder.com/15/111111/000000?text=+)<br/>
+`#EEEEEE` ![#EEEEEE](https://via.placeholder.com/15/EEEEEE/000000?text=+)<br/>
 ```latex
 % To join the dark side add these lines to the preamble (before \begin{document})
 \usepackage{xcolor}
@@ -102,10 +104,10 @@ If you just want the internal pdf viewer does the job follow the next steps, tha
 This method inverts colors of everything, including pictures and elements like boxes.
 1. Go to menu bar -> Click in `Options`  -> Click on `Configure TeXstudio...`
 2. In the Configure TeXstudio window clic on `Internal PDF Viewer` tab
-3. In the `Paper Color` box choose a light gray color, #D1CFCF for example
+3. In the `Paper Color` box choose a light gray color, `#D1CFCF` ![#D1CFCF](https://via.placeholder.com/15/D1CFCF/000000?text=+) for example
 4. Switch to Windowed Viewer (right next to internal viewer `Close` button)
 5. Compile and view the changes
-6. In the Windowed Viewer go to menu bar, do Configure -> Invert Colors
+6. In the Windowed Viewer go to menu bar, do `Configure` -> `Invert Colors`
 7. Switch back to Embedded Viewer
 When you open the pdf with an external pdf viewer you will see the typical black & white document.
 
