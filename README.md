@@ -61,14 +61,14 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 ## Preview
 
 #### Inserting a text, keywords are orange
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Text.png)
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Keywords_and_text.png)
 #### Inserting a maths equations, using green and blue colors
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Maths.png)
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Math_mode.png)
 #### Inserting a table + math mode, very colorful
 File available for [download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Table.png)
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Table.png)
 #### Inserting a figure, references are in magenta
-![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Figure.png)
+![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/References.png)
 
 ## Comparison: Light IDE theme vs Dark IDE theme
 
