@@ -85,6 +85,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Math_mode.png)
 
 #### Inserting a table + math mode, very colorful
+File available for ![download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
 <details>
 <summary>Colors</summary>
   
@@ -100,7 +101,6 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 - align-ampersand `#DC322F` ![#DC322F](https://via.placeholder.com/15/DC322F/000000?text=+)<br/>
 - text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
 </details>
-File available for ![download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
 
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Table.png)
 
