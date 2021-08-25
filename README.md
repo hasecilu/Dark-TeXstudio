@@ -52,14 +52,23 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 ## Preview
 
 #### Inserting commands and text
+<details>
+<summary>Colors</summary>
+
 - background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
 - keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
 - structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
 - comment `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+)<br/>
 - text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
+
+</details>
+
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Keywords_and_text.png)
 
 #### Inserting a maths equations, using green and blue colors
+<details>
+<summary>Colors</summary>
+  
 - background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
 - keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
 - extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
@@ -71,10 +80,14 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 - number `#33C7BB` ![#33C7BB](https://via.placeholder.com/15/33C7BB/000000?text=+)<br/>
 - align-ampersand `#DC322F` ![#DC322F](https://via.placeholder.com/15/DC322F/000000?text=+)<br/>
 - text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
+</details>
+
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Math_mode.png)
 
 #### Inserting a table + math mode, very colorful
-File available for [download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
+<details>
+<summary>Colors</summary>
+  
 - background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
 - keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
 - extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
@@ -86,9 +99,15 @@ File available for [download](https://github.com/hasecilu/Dark-TeXstudio/blob/ma
 - number `#33C7BB` ![#33C7BB](https://via.placeholder.com/15/33C7BB/000000?text=+)<br/>
 - align-ampersand `#DC322F` ![#DC322F](https://via.placeholder.com/15/DC322F/000000?text=+)<br/>
 - text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
+</details>
+File available for [download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
+
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Table.png)
 
 #### Inserting a figure, references are in magenta
+<details>
+<summary>Colors</summary>
+  
 - background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
 - keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
 - extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
@@ -98,6 +117,8 @@ File available for [download](https://github.com/hasecilu/Dark-TeXstudio/blob/ma
 - referenceMissing `#FF859E` ![#FF859E](https://via.placeholder.com/15/FF859E/000000?text=+)<br/>
 - referenceMultiple `#734967` ![#734967](https://via.placeholder.com/15/734967/000000?text=+)<br/>
 - text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
+</details>
+
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/References.png)
 
 For making easier to look at the errors & find/replace highlightnings I changed:<br/>
