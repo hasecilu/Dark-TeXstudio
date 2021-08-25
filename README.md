@@ -2,7 +2,7 @@
 
 ## Introduction
 This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing beginner LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
-The math mode is intact and I tweaked some colors, mainly: put text to `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+), comments to  `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+), keywords to `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+), extra-keywords to `#446780` ![#446780](https://via.placeholder.com/15/446780/000000?text=+), environment to `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+) and ...<br/><br/>
+The math mode is intact and I tweaked some colors, mainly: put text to `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+), comments to  `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+), keywords to `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+), extra-keywords to `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+), environment to `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+) and ...<br/><br/>
 For making easier to look at the errors & find/replace highlightnings I changed:<br/>
 Line highlighting<br/>
 - line:error   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> from `#FFC9BF` ![#FFC9BF](https://via.placeholder.com/15/FFC9BF/000000?text=+) to `#FF8269` ![#FF8269](https://via.placeholder.com/15/FF8269/000000?text=+)
@@ -60,14 +60,53 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 
 ## Preview
 
-#### Inserting a text, keywords are orange
+#### Inserting commands and text
+- background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
+- keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
+- structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
+- comment `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+)<br/>
+- text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Keywords_and_text.png)
+
 #### Inserting a maths equations, using green and blue colors
+- background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
+- keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
+- extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
+- environment `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+)<br/>
+- structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
+- comment `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+)<br/>
+- math-delimiter `#399900` ![#399900](https://via.placeholder.com/15/399900/000000?text=+)<br/>
+- math-keyword `#268BD2` ![#268BD2](https://via.placeholder.com/15/268BD2/000000?text=+)<br/>
+- number `#33C7BB` ![#33C7BB](https://via.placeholder.com/15/33C7BB/000000?text=+)<br/>
+- align-ampersand `#DC322F` ![#DC322F](https://via.placeholder.com/15/DC322F/000000?text=+)<br/>
+- text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Math_mode.png)
+
 #### Inserting a table + math mode, very colorful
 File available for [download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
+- background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
+- keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
+- extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
+- environment `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+)<br/>
+- structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
+- comment `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+)<br/>
+- math-delimiter `#399900` ![#399900](https://via.placeholder.com/15/399900/000000?text=+)<br/>
+- math-keyword `#268BD2` ![#268BD2](https://via.placeholder.com/15/268BD2/000000?text=+)<br/>
+- number `#33C7BB` ![#33C7BB](https://via.placeholder.com/15/33C7BB/000000?text=+)<br/>
+- align-ampersand `#DC322F` ![#DC322F](https://via.placeholder.com/15/DC322F/000000?text=+)<br/>
+- text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Table.png)
+
 #### Inserting a figure, references are in magenta
+- background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
+- keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
+- extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
+- environment `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+)<br/>
+- structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
+- referencePresent `#D70170` ![#D70170](https://via.placeholder.com/15/D70170/000000?text=+)<br/>
+- referenceMissing `#FF859E` ![#FF859E](https://via.placeholder.com/15/FF859E/000000?text=+)<br/>
+- referenceMultiple `#734967` ![#734967](https://via.placeholder.com/15/734967/000000?text=+)<br/>
+- text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/References.png)
 
 ## Comparison: Light IDE theme vs Dark IDE theme
