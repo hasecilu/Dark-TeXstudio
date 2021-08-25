@@ -3,15 +3,6 @@
 ## Introduction
 This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing beginner LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
 The math mode is intact and I tweaked some colors, mainly: put text to `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+), comments to  `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+), keywords to `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+), extra-keywords to `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+), environment to `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+) and ...<br/><br/>
-For making easier to look at the errors & find/replace highlightnings I changed:<br/>
-Line highlighting<br/>
-- line:error   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> from `#FFC9BF` ![#FFC9BF](https://via.placeholder.com/15/FFC9BF/000000?text=+) to `#FF8269` ![#FF8269](https://via.placeholder.com/15/FF8269/000000?text=+)
-- line:warning -> from `#FFFABF` ![#FFFABF](https://via.placeholder.com/15/FFFABF/000000?text=+) to `#FFF569` ![#FFF569](https://via.placeholder.com/15/FFF569/000000?text=+)
-- line:badbox  &nbsp;-> from `#BFD6FF` ![#BFD6FF](https://via.placeholder.com/15/BFD6FF/000000?text=+) to `#69A0FF` ![#69A0FF](https://via.placeholder.com/15/69A0FF/000000?text=+)<br/>
-
-Search<br/>
-- replacement  -> from `#FFDEDE` ![#FFDEDE](https://via.placeholder.com/15/FFDEDE/000000?text=+) to `#FF6969` ![#FF6969](https://via.placeholder.com/15/FF6969/000000?text=+)<br/>
-
 
 ## Before you start !!! 
 Backup your TeXstudio settings.  
@@ -108,6 +99,15 @@ File available for [download](https://github.com/hasecilu/Dark-TeXstudio/blob/ma
 - referenceMultiple `#734967` ![#734967](https://via.placeholder.com/15/734967/000000?text=+)<br/>
 - text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/References.png)
+
+For making easier to look at the errors & find/replace highlightnings I changed:<br/>
+Line highlighting<br/>
+- line:error   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> from `#FFC9BF` ![#FFC9BF](https://via.placeholder.com/15/FFC9BF/000000?text=+) to `#FF8269` ![#FF8269](https://via.placeholder.com/15/FF8269/000000?text=+)
+- line:warning -> from `#FFFABF` ![#FFFABF](https://via.placeholder.com/15/FFFABF/000000?text=+) to `#FFF569` ![#FFF569](https://via.placeholder.com/15/FFF569/000000?text=+)
+- line:badbox  &nbsp;-> from `#BFD6FF` ![#BFD6FF](https://via.placeholder.com/15/BFD6FF/000000?text=+) to `#69A0FF` ![#69A0FF](https://via.placeholder.com/15/69A0FF/000000?text=+)<br/>
+
+Search<br/>
+- replacement  -> from `#FFDEDE` ![#FFDEDE](https://via.placeholder.com/15/FFDEDE/000000?text=+) to `#FF6969` ![#FF6969](https://via.placeholder.com/15/FF6969/000000?text=+)<br/>
 
 ## Comparison: Light IDE theme vs Dark IDE theme
 
