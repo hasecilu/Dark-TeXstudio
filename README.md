@@ -3,7 +3,7 @@
 ## Introduction
 This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing beginner LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
 The math mode is intact and I tweaked some colors, mainly: put text to `#E9E9E9` ![#E9E9E9](https://placehold.co/15x15/E9E9E9/E9E9E9.png), comments to  `#8FAE90` ![#8FAE90](https://placehold.co/15x15/8FAE90/8FAE90.png), keywords to `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png), extra-keywords to `#537E9A` ![#537E9A](https://placehold.co/15x15/537E9A/537E9A.png), environment to `#C69500` ![#C69500](https://placehold.co/15x15/C69500/C69500.png) and ...<br/><br/>
-`#564812`
+
 ## Before you start !!! 
 Backup your TeXstudio settings.  
 Go to menu bar -> Click in `Options`  -> Click on `Save Profile...`
