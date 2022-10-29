@@ -2,8 +2,8 @@
 
 ## Introduction
 This theme is based on the theme provided by Master Prodigy user on YouTube. [Check out his amazing beginner LaTeX tutorials.](https://www.youtube.com/watch?v=TWRP_94eock&list=PLknjcpwMhvSgauKyhScPiQGW9H4V0EKj5)<br/><br/>
-The math mode is intact and I tweaked some colors, mainly: put text to `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+), comments to  `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+), keywords to `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+), extra-keywords to `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+), environment to `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+) and ...<br/><br/>
-
+The math mode is intact and I tweaked some colors, mainly: put text to `#E9E9E9` ![#E9E9E9](https://placehold.co/15x15/E9E9E9/E9E9E9.png), comments to  `#8FAE90` ![#8FAE90](https://placehold.co/15x15/8FAE90/8FAE90.png), keywords to `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png), extra-keywords to `#537E9A` ![#537E9A](https://placehold.co/15x15/537E9A/537E9A.png), environment to `#C69500` ![#C69500](https://placehold.co/15x15/C69500/C69500.png) and ...<br/><br/>
+`#564812`
 ## Before you start !!! 
 Backup your TeXstudio settings.  
 Go to menu bar -> Click in `Options`  -> Click on `Save Profile...`
@@ -53,13 +53,13 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 
 #### Inserting commands and text
 <details>
-<summary>Colors</summary>
+<summary>Click to view/hide olors</summary>
 
-- background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
-- keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
-- structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
-- comment `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+)<br/>
-- text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
+- background `#131313` ![#131313](https://placehold.co/15x15/131313/131313.png)<br/>
+- keyword `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png)<br/>
+- structure `#00AAFF` ![#00AAFF](https://placehold.co/15x15/00AAFF/00AAFF.png)<br/>
+- comment `#8FAE90` ![#8FAE90](https://placehold.co/15x15/8FAE90/8FAE90.png)<br/>
+- text `#E9E9E9` ![#E9E9E9](https://placehold.co/15x15/E9E9E9/E9E9E9.png)<br/>
 
 </details>
 
@@ -67,19 +67,19 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 
 #### Inserting a maths equations, using green and blue colors
 <details>
-<summary>Colors</summary>
+<summary>Click to view/hide olors</summary>
   
-- background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
-- keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
-- extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
-- environment `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+)<br/>
-- structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
-- comment `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+)<br/>
-- math-delimiter `#399900` ![#399900](https://via.placeholder.com/15/399900/000000?text=+)<br/>
-- math-keyword `#268BD2` ![#268BD2](https://via.placeholder.com/15/268BD2/000000?text=+)<br/>
-- number `#33C7BB` ![#33C7BB](https://via.placeholder.com/15/33C7BB/000000?text=+)<br/>
-- align-ampersand `#DC322F` ![#DC322F](https://via.placeholder.com/15/DC322F/000000?text=+)<br/>
-- text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
+- background `#131313` ![#131313](https://placehold.co/15x15/131313/131313.png)<br/>
+- keyword `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png)<br/>
+- extra-keyword `#537E9A` ![#537E9A](https://placehold.co/15x15/537E9A/537E9A.png)<br/>
+- environment `#C69500` ![#C69500](https://placehold.co/15x15/C69500/C69500.png)<br/>
+- structure `#00AAFF` ![#00AAFF](https://placehold.co/15x15/00AAFF/00AAFF.png)<br/>
+- comment `#8FAE90` ![#8FAE90](https://placehold.co/15x15/8FAE90/8FAE90.png)<br/>
+- math-delimiter `#399900` ![#399900](https://placehold.co/15x15/399900/399900.png)<br/>
+- math-keyword `#268BD2` ![#268BD2](https://placehold.co/15x15/268BD2/268BD2.png)<br/>
+- number `#33C7BB` ![#33C7BB](https://placehold.co/15x15/33C7BB/33C7BB.png)<br/>
+- align-ampersand `#DC322F` ![#DC322F](https://placehold.co/15x15/DC322F/DC322F.png)<br/>
+- text `#E9E9E9` ![#E9E9E9](https://placehold.co/15x15/E9E9E9/E9E9E9.png)<br/>
 </details>
 
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Math_mode.png)
@@ -87,48 +87,48 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 #### Inserting a table + math mode, very colorful
 File available for ![download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
 <details>
-<summary>Colors</summary>
+<summary>Click to view/hide olors</summary>
   
-- background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
-- keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
-- extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
-- environment `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+)<br/>
-- structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
-- comment `#8FAE90` ![#8FAE90](https://via.placeholder.com/15/8FAE90/000000?text=+)<br/>
-- math-delimiter `#399900` ![#399900](https://via.placeholder.com/15/399900/000000?text=+)<br/>
-- math-keyword `#268BD2` ![#268BD2](https://via.placeholder.com/15/268BD2/000000?text=+)<br/>
-- number `#33C7BB` ![#33C7BB](https://via.placeholder.com/15/33C7BB/000000?text=+)<br/>
-- align-ampersand `#DC322F` ![#DC322F](https://via.placeholder.com/15/DC322F/000000?text=+)<br/>
-- text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
+- background `#131313` ![#131313](https://placehold.co/15x15/131313/131313.png)<br/>
+- keyword `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png)<br/>
+- extra-keyword `#537E9A` ![#537E9A](https://placehold.co/15x15/537E9A/537E9A.png)<br/>
+- environment `#C69500` ![#C69500](https://placehold.co/15x15/C69500/C69500.png)<br/>
+- structure `#00AAFF` ![#00AAFF](https://placehold.co/15x15/00AAFF/00AAFF.png)<br/>
+- comment `#8FAE90` ![#8FAE90](https://placehold.co/15x15/8FAE90/8FAE90.png)<br/>
+- math-delimiter `#399900` ![#399900](https://placehold.co/15x15/399900/399900.png)<br/>
+- math-keyword `#268BD2` ![#268BD2](https://placehold.co/15x15/268BD2/268BD2.png)<br/>
+- number `#33C7BB` ![#33C7BB](https://placehold.co/15x15/33C7BB/33C7BB.png)<br/>
+- align-ampersand `#DC322F` ![#DC322F](https://placehold.co/15x15/DC322F/DC322F.png)<br/>
+- text `#E9E9E9` ![#E9E9E9](https://placehold.co/15x15/E9E9E9/E9E9E9.png)<br/>
 </details>
 
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/Table.png)
 
 #### Inserting a figure, references are in magenta
 <details>
-<summary>Colors</summary>
+<summary>Click to view/hide olors</summary>
   
-- background `#131313` ![#131313](https://via.placeholder.com/15/131313/000000?text=+)<br/>
-- keyword `#FF5E2B` ![#FF5E2B](https://via.placeholder.com/15/FF5E2B/000000?text=+)<br/>
-- extra-keyword `#537E9A` ![#537E9A](https://via.placeholder.com/15/537E9A/000000?text=+)<br/>
-- environment `#C69500` ![#C69500](https://via.placeholder.com/15/C69500/000000?text=+)<br/>
-- structure `#00AAFF` ![#00AAFF](https://via.placeholder.com/15/00AAFF/000000?text=+)<br/>
-- referencePresent `#D70170` ![#D70170](https://via.placeholder.com/15/D70170/000000?text=+)<br/>
-- referenceMissing `#FF859E` ![#FF859E](https://via.placeholder.com/15/FF859E/000000?text=+)<br/>
-- referenceMultiple `#734967` ![#734967](https://via.placeholder.com/15/734967/000000?text=+)<br/>
-- text `#E9E9E9` ![#E9E9E9](https://via.placeholder.com/15/E9E9E9/000000?text=+)<br/>
+- background `#131313` ![#131313](https://placehold.co/15x15/131313/131313.png)<br/>
+- keyword `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png)<br/>
+- extra-keyword `#537E9A` ![#537E9A](https://placehold.co/15x15/537E9A/537E9A.png)<br/>
+- environment `#C69500` ![#C69500](https://placehold.co/15x15/C69500/C69500.png)<br/>
+- structure `#00AAFF` ![#00AAFF](https://placehold.co/15x15/00AAFF/00AAFF.png)<br/>
+- referencePresent `#D70170` ![#D70170](https://placehold.co/15x15/D70170/D70170.png)<br/>
+- referenceMissing `#FF859E` ![#FF859E](https://placehold.co/15x15/FF859E/FF859E.png)<br/>
+- referenceMultiple `#734967` ![#734967](https://placehold.co/15x15/734967/734967.png)<br/>
+- text `#E9E9E9` ![#E9E9E9](https://placehold.co/15x15/E9E9E9/E9E9E9.png)<br/>
 </details>
 
 ![Preview](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/v1.1/References.png)
 
 For making easier to look at the errors & find/replace highlightnings I changed:<br/>
 Line highlighting<br/>
-- line:error   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> from `#FFC9BF` ![#FFC9BF](https://via.placeholder.com/15/FFC9BF/000000?text=+) to `#FF8269` ![#FF8269](https://via.placeholder.com/15/FF8269/000000?text=+)
-- line:warning -> from `#FFFABF` ![#FFFABF](https://via.placeholder.com/15/FFFABF/000000?text=+) to `#FFF569` ![#FFF569](https://via.placeholder.com/15/FFF569/000000?text=+)
-- line:badbox  &nbsp;-> from `#BFD6FF` ![#BFD6FF](https://via.placeholder.com/15/BFD6FF/000000?text=+) to `#69A0FF` ![#69A0FF](https://via.placeholder.com/15/69A0FF/000000?text=+)<br/>
+- line:error   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> from `#FFC9BF` ![#FFC9BF](https://placehold.co/15x15/FFC9BF/FFC9BF.png) to `#FF8269` ![#FF8269](https://placehold.co/15x15/FF8269/FF8269.png)
+- line:warning -> from `#FFFABF` ![#FFFABF](https://placehold.co/15x15/FFFABF/FFFABF.png) to `#FFF569` ![#FFF569](https://placehold.co/15x15/FFF569/FFF569.png)
+- line:badbox  &nbsp;-> from `#BFD6FF` ![#BFD6FF](https://placehold.co/15x15/BFD6FF/BFD6FF.png) to `#69A0FF` ![#69A0FF](https://placehold.co/15x15/69A0FF/69A0FF.png)<br/>
 
 Search<br/>
-- replacement  -> from `#FFDEDE` ![#FFDEDE](https://via.placeholder.com/15/FFDEDE/000000?text=+) to `#FF6969` ![#FF6969](https://via.placeholder.com/15/FF6969/000000?text=+)<br/>
+- replacement  -> from `#FFDEDE` ![#FFDEDE](https://placehold.co/15x15/FFDEDE/FFDEDE.png) to `#FF6969` ![#FF6969](https://placehold.co/15x15/FF6969/FF6969.png)<br/>
 
 ## Comparison: Light IDE theme vs Dark IDE theme
 
@@ -146,8 +146,8 @@ We can change colors in our document using the the [xcolor package](https://www.
 Type `texdoc xcolor` in your terminal for help.<br/>
 This method does not inverts colors of pictures and some elements like boxes.<br/>
 Recommendation: For better readability try using colors in the scale of gray, the contrast should not be very high as in the black background & white foreground combination.<br/>
-`#111111` ![#111111](https://via.placeholder.com/15/111111/000000?text=+)<br/>
-`#EEEEEE` ![#EEEEEE](https://via.placeholder.com/15/EEEEEE/000000?text=+)<br/>
+`#111111` ![#111111](https://placehold.co/15x15/111111/111111.png)<br/>
+`#EEEEEE` ![#EEEEEE](https://placehold.co/15x15/EEEEEE/EEEEEE.png)<br/>
 ```latex
 % To join the dark side add these lines to the preamble (before \begin{document})
 \usepackage{xcolor}
@@ -164,7 +164,7 @@ If you just want the internal pdf viewer does the job follow the next steps, tha
 This method inverts colors of everything, including pictures and elements like boxes.
 1. Go to menu bar -> Click in `Options`  -> Click on `Configure TeXstudio...`
 2. In the Configure TeXstudio window clic on `Internal PDF Viewer` tab
-3. In the `Paper Color` box choose a light gray color, `#D1CFCF` ![#D1CFCF](https://via.placeholder.com/15/D1CFCF/000000?text=+) for example
+3. In the `Paper Color` box choose a light gray color, `#D1CFCF` ![#D1CFCF](https://placehold.co/15x15/D1CFCF/D1CFCF.png) for example
 4. Switch to Windowed Viewer (right next to internal viewer `Close` button)
 5. Compile and view the changes
 6. In the Windowed Viewer go to menu bar, do `Configure` -> `Invert Colors`
