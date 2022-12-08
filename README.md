@@ -53,7 +53,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 
 #### Inserting commands and text
 <details>
-<summary>Click to view/hide olors</summary>
+<summary>Click to view/hide colors</summary>
 
 - background `#131313` ![#131313](https://placehold.co/15x15/131313/131313.png)<br/>
 - keyword `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png)<br/>
@@ -67,7 +67,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 
 #### Inserting a maths equations, using green and blue colors
 <details>
-<summary>Click to view/hide olors</summary>
+<summary>Click to view/hide colors</summary>
   
 - background `#131313` ![#131313](https://placehold.co/15x15/131313/131313.png)<br/>
 - keyword `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png)<br/>
@@ -87,7 +87,7 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 #### Inserting a table + math mode, very colorful
 File available for ![download](https://github.com/hasecilu/Dark-TeXstudio/blob/master/Greek_letters.tex). <br/>
 <details>
-<summary>Click to view/hide olors</summary>
+<summary>Click to view/hide colors</summary>
   
 - background `#131313` ![#131313](https://placehold.co/15x15/131313/131313.png)<br/>
 - keyword `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png)<br/>
@@ -106,7 +106,7 @@ File available for ![download](https://github.com/hasecilu/Dark-TeXstudio/blob/m
 
 #### Inserting a figure, references are in magenta
 <details>
-<summary>Click to view/hide olors</summary>
+<summary>Click to view/hide colors</summary>
   
 - background `#131313` ![#131313](https://placehold.co/15x15/131313/131313.png)<br/>
 - keyword `#FF5E2B` ![#FF5E2B](https://placehold.co/15x15/FF5E2B/FF5E2B.png)<br/>
