@@ -195,7 +195,9 @@ When you open the pdf with an external pdf viewer you will see the typical black
 
 ![Dark theme + invert color](https://raw.github.com/hasecilu/Dark-TeXstudio/master/images/Full_Dark3.png)
 
-### Welcome to the dark side!
+### These people have already joined the dark side!
+
+[![Stargazers repo roster for @hasecilu/Dark-TeXstudio](https://reporoster.com/stars/dark/notext/hasecilu/Dark-TeXstudio)](https://github.com/hasecilu/Dark-TeXstudio/stargazers)
 
 #### Interested in more dark profiles for TeXstudio?
 
